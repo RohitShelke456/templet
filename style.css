@@ -1,0 +1,15 @@
+body{
+    background: #cef0fb;
+}
+
+
+#navimg{
+    background-image: url(images\ \(1\)dfs.jpg) ;
+    background-repeat:no-repeat ;
+height: 70vh;   
+    
+}
+#img2{
+    height: 60vh;
+    width: 90vh;
+}
